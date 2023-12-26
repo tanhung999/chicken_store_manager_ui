@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div>APP BAns Gaf Gans Sieu Cap VipPro</div>
+      <div><Header/></div>
     </>
   )
 }
